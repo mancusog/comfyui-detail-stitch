@@ -24,6 +24,8 @@ The included workflow (`workflow/crop with metadata_example.json`) demonstrates 
 
 ![sample](workflow/sample.png)
 
+![workflow preview](workflow/workflow_preview.png)
+
 ## Installation
 
 Install via ComfyUI Manager or clone manually:
