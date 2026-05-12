@@ -1,0 +1,13 @@
+[project]
+name = "comfyui-detail-stitch"
+version = "1.0.0"
+description = "Crop and paste nodes with metadata for detail stitching in ComfyUI"
+license = {text = "MIT"}
+
+[project.urls]
+Repository = "https://github.com/mancusog/comfyui-detail-stitch"
+
+[tool.comfy]
+PublisherId = "mancusog"
+DisplayName = "Detail Stitch"
+Icon = ""
